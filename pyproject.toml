@@ -8,6 +8,7 @@ packages = [{include = "python_desing_patterns"}]
 
 [tool.poetry.dependencies]
 python = "3.8.10"
+jupyterlab = "^4.0.2"
 
 
 [build-system]
